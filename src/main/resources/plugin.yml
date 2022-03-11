@@ -1,0 +1,6 @@
+name: NoDelay
+version: ${project.version}
+main: com.gmail.kobun127.nodelay.NoDelay
+api-version: 1.16
+authors: [ howard127 ]
+description: NoHitDelay Plugin
